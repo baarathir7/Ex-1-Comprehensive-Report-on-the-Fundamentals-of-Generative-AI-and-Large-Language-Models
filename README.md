@@ -64,6 +64,7 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 
 Output:
-https://github.com/baarathir7/Ex-1-Comprehensive-Report-on-the-Fundamentals-of-Generative-AI-and-Large-Language-Models.git
+[prompt exp 1 (1).pdf](https://github.com/user-attachments/files/28603916/prompt.exp.1.1.pdf)
+
 
 Result:
